@@ -1,0 +1,11 @@
+{
+  "name": "cs-in-frontend",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1"
+  }
+}
